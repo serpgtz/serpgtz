@@ -7,10 +7,10 @@ Sobre Mi.
 
 
 
-Soy una persona que me apasiona la tecnología y el mundo de la programación, el poder solucionar problemas por medio del análisis lógico y critico me llena de satisfacción y me motiva a seguir aprendiendo.
+👓Soy una persona que me apasiona la tecnología y el mundo de la programación, el poder solucionar problemas por medio del análisis lógico y critico me llena de satisfacción y me motiva a seguir aprendiendo.
 
 En estos momentos estoy familiarizado y he trabajado con las siguientes tecnologías:
-
+🖥🖱
 <h1>JavaScript, Css, Html, Node Js, Express, React-redux, PosgreSql, sequelize, MongoDb, Mongoose, Mui.</h1>
 
 
