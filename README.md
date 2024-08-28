@@ -11,7 +11,7 @@ Sobre Mi.
 
 En estos momentos estoy familiarizado y he trabajado con las siguientes tecnologías:
 🖥🖱
-<h1>JavaScript, Css, Html, Node Js, Express, React-redux, PosgreSql, sequelize, MongoDb, Mongoose, Mui.</h1>
+<h1>JavaScript,Typescript, Css, Html, Node Js, Express, React-redux, PosgreSql, sequelize, MongoDb, Mongoose, Mui.</h1>
 
 
 
